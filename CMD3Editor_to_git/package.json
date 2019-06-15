@@ -1,0 +1,16 @@
+{
+    "name": "physics",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "browser-sync start -s -f schema.html js css img --no-notify --index schema.html"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "browser-sync": "^2.18.13",
+        "mathjs": "^3.16.5"
+    }
+}

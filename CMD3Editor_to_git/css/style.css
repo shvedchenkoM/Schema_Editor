@@ -1,0 +1,40 @@
+.cr {
+  margin-top: 40px;
+  margin-left: 50px;
+  position: relative;
+  display: inline-block;
+}
+
+.c {
+  float: left;
+  margin: 5px 5px;
+  margin-top: 50;
+  margin-right: 10;
+  margin-left: 10px;
+  position: relative;
+  display: inline-block;
+  text-decoration: none; /* Убираем подчёркивание */
+  font-family: arial;
+  border-radius: 12px;
+  font-size: 1.6em;
+  color: #7955c0; /* Цвет текста */
+}
+
+.c:hover {
+  box-shadow: 0 0 5px rgba(74, 170, 79, 0.342); /* Тень */
+  background: linear-gradient(to bottom, #fcfff400, #72720f00); /* Градиент */
+  color: rgba(185, 72, 72, 0.479);
+}
+
+.maincontainer {
+  display: flex
+}
+.schemaview {
+}
+
+.menuitems {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin: 290px 0 0 0 ;
+}

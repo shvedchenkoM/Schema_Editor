@@ -1,0 +1,1 @@
+* clean model and ui before load new file
