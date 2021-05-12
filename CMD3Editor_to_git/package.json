@@ -11,6 +11,6 @@
     "license": "ISC",
     "dependencies": {
         "browser-sync": "^2.18.13",
-        "mathjs": "^3.16.5"
+        "mathjs": "^7.5.1"
     }
 }
